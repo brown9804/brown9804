@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Timna Brown</h1>
-  <p><img src="https://raw.githubusercontent.com/brown9804/public-profile/main/assets/profile-banner.svg?v=4" width="640" alt="Technical portfolio: cloud architecture, data analytics, and systems engineering."></p>
+  <!-- Pin the banner asset commit to avoid stale main-branch images; update after changing the SVG. -->
+  <p><img src="https://raw.githubusercontent.com/brown9804/public-profile/c9c3ae9b2b01c0de2e4b9116accca8f35c87c242/assets/profile-banner.svg" width="640" alt="Technical portfolio: cloud architecture, data analytics, and systems engineering."></p>
   <p><strong>Cloud architecture | Data analytics | Systems engineering</strong><br><sub>Atlanta, USA</sub></p>
 </div>
 
