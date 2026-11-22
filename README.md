@@ -1,17 +1,18 @@
 <div align="center">
   <h1>Timna Brown</h1>
-  <p><img src="https://raw.githubusercontent.com/brown9804/public-profile/main/assets/profile-banner.svg?v=3" width="640" alt="Cloud. Data. Engineering."></p>
-  <p><strong>Build infrastructure. Explore data. Share knowledge.</strong><br><sub>Atlanta, USA</sub></p>
+  <p><img src="https://raw.githubusercontent.com/brown9804/public-profile/main/assets/profile-banner.svg?v=4" width="640" alt="Technical portfolio: cloud architecture, data analytics, and systems engineering."></p>
+  <p><strong>Cloud architecture | Data analytics | Systems engineering</strong><br><sub>Atlanta, USA</sub></p>
 </div>
 
-Welcome! I build and share resources that connect **cloud and DevOps**, **data
-science and analytics**, and **electrical and computer engineering**. This
-portfolio brings together guided introductions, reusable examples, small
-applications, and earlier engineering projects.
+My technical portfolio covers **cloud infrastructure, data analytics, software
+development, and computer and electrical engineering**. It combines reusable
+infrastructure examples, analytical exercises, application development, systems
+and hardware projects, and technical documentation.
 
 [Start here](#start-here) |
 [Skills and learning](#skills-and-learning-areas) |
-[Organizations](#organizations-i-created) |
+[Languages](#languages-and-technical-formats) |
+[Organizations](#organizations-and-initiatives) |
 [Overview](#portfolio-at-a-glance) |
 [All projects](#explore-all-40-projects) |
 [Learning paths](#learning-paths)
@@ -20,12 +21,12 @@ applications, and earlier engineering projects.
 
 **40 public projects | 6 project categories | 3 organizations**
 
-The common thread is **learning by building, then making that knowledge reusable**:
+The portfolio connects four areas of technical practice:
 
-- **Automate infrastructure:** Azure, Bicep, Terraform, DevOps, and observability.
-- **Turn data into insight:** DAX, Power BI, machine learning, probability, and computer vision.
-- **Understand the systems underneath:** C/C++, Linux, parallel programming, digital hardware, and embedded designs.
-- **Share what works:** Learning paths, examples, technical documentation, LaTeX, and open-source communities.
+- **Infrastructure engineering:** Azure, Bicep, Terraform, DevOps, and observability.
+- **Data and analytics:** DAX, Power BI, machine learning, probability, and computer vision.
+- **Software and systems:** C/C++, Linux, parallel programming, digital hardware, and embedded designs.
+- **Technical enablement:** Learning paths, reusable examples, documentation, LaTeX, and open-source initiatives.
 
 <details>
 <summary><strong>Optional visual snapshot - project distribution and learning routes</strong></summary>
@@ -66,14 +67,64 @@ or a claim that every example is production-ready.
 | --- | --- |
 | **Cloud and infrastructure automation** | Microsoft Azure, Bicep, Terraform, resource organization, reusable modules, and deployment workflows |
 | **DevOps and observability** | GitHub Actions, Azure DevOps concepts, CI/CD, centralized logging, monitoring, telemetry, and streaming |
-| **Data and analytics** | Python, SQL, NumPy, R, MATLAB/Octave, DAX, Power BI, probability, and Markov chains |
+| **Data and analytics** | Python, SQL, NumPy, MATLAB, DAX, Power BI, probability, and Markov chains |
 | **Software and automation** | C, C++, Python, JavaScript, Visual Basic .NET, Excel/VBA, algorithms, and text processing |
 | **Computer vision and robotics** | OpenCV, image filtering and segmentation, optical flow, ROS, and pose estimation |
 | **Computer systems** | Linux, ARM, kernel modules, Pthreads, cache policies, and performance simulation |
 | **Digital and embedded engineering** | Verilog, FPGA design, RISC-V, PCIe, MIPS assembly, microcontrollers, Vivado, Icarus Verilog, GTKWave, and Yosys |
 | **Electrical engineering and documentation** | SPICE, communications, control-system simulations, LaTeX, Markdown, and learning-site documentation |
 
-## Organizations I created
+## Languages and technical formats
+
+The review of public, non-fork repositories on **November 22, 2026** identified
+**21 code and domain-specific languages** with representative portfolio evidence.
+The examples below show usage across my personal repositories and the three
+Cloud2BR organizations; they do not imply equal proficiency in every language.
+
+| Language | Portfolio application | Representative evidence |
+| --- | --- | --- |
+| C | Algorithms, cache policies, and systems programming | [Cache policies](https://github.com/brown9804/CacheMemory-DesignPolicies) |
+| C++ | Computer structures, image processing, and simulation | [Cache simulation](https://github.com/brown9804/Cache-PerformanceSimulation) |
+| C# | .NET application and signing examples | [Signing example](https://github.com/Cloud2BR-MSFTLearningHub/Azure-ArtifactSigning-DevOps/blob/main/SigningDemo/Program.cs) |
+| Python | Machine learning, analytics, and automation | [Machine learning](https://github.com/brown9804/MachineLearning-Overview) |
+| JavaScript | Browser tools and application behavior | [Badge generator](https://github.com/brown9804/Badge-Generator) |
+| TypeScript | Typed web applications | [File converter](https://github.com/Cloud2BR/File-Format-Converter) |
+| Go | Language and data-structure exercises | [Go example](https://github.com/brown9804/Cloud-DevOps-Overview/blob/main/Cloud/2-automation_principles/0_golang/src/main.go) |
+| Rust | Developer tooling and command-line components | [CLI example](https://github.com/Cloud2BR/devopster/blob/main/src/cli/catalog.rs) |
+| Visual Basic .NET | Educational and desktop applications | [ASFIMA](https://github.com/brown9804/ASFIMA) |
+| MATLAB | Engineering and numerical simulations | [Engineering simulations](https://github.com/brown9804/Engineering-Simulations-Hub) |
+| PowerShell | Azure and delivery automation | [Digital Twins](https://github.com/Cloud2BR-MSFTLearningHub/Azure-DigitalTwins-Overview) |
+| Shell/Bash | Development and data-processing workflows | [Shell exercises](https://github.com/brown9804/MachineLearning-Overview) |
+| VBA | Excel workbook automation | [Macro workbook](https://github.com/brown9804/Excel_Macros_eg/blob/master/Macros_VBA_Excel.xlsm) |
+| Tcl | FPGA project creation and tool control | [Vivado workflow](https://github.com/brown9804/NexysDDR4-RISC-V_picorv32/blob/master/Lab1/tools/scripts/create_project.tcl) |
+| SQL/T-SQL | Relational queries and database maintenance | [SQL exercises](https://github.com/brown9804/MachineLearning-Overview/blob/main/0-dclevel_1/src/1_sql_intro.sql), [SQL Server examples](https://github.com/Cloud2BR-MSFTLearningHub/azDataBase-Freeing-Unused-Space) |
+| DAX | Measures and analytical expressions | [DAX examples](https://github.com/Cloud2BR-MSFTLearningHub/DAX-For-Everyone/tree/main/examples) |
+| Power Query M | Data preparation and date-table generation | [Date-table query](https://github.com/Cloud2BR-MSFTLearningHub/Fabric-Date-Hierarchy-Accelerator/blob/main/src/dynamic-date-table.pq) |
+| Bicep | Azure resource declarations and reusable modules | [Bicep library](https://github.com/Cloud2BR-MSFTLearningHub/Bicep-For-Everyone) |
+| HCL/Terraform | Declarative infrastructure configuration | [Azure templates](https://github.com/Cloud2BR-MSFTLearningHub/AzureTerraformTemplates-v0.0.0) |
+| Assembly | MIPS and embedded programming exercises | [MIPS examples](https://github.com/brown9804/Assembly-MIPS-MARS-Designs) |
+| Verilog | Digital logic, FPGA, and hardware descriptions | [Circuit designs](https://github.com/brown9804/Verilog-CircuitDesigns-Hub) |
+
+### Supporting formats and tooling
+
+These are listed separately from the 21 languages above, rather than inflating
+the programming-language count.
+
+| Area | Formats and tooling | Portfolio context |
+| --- | --- | --- |
+| Web presentation | HTML, CSS, SCSS | [Documentation sites](https://github.com/brown9804/Cloud-DevOps-Overview), [web tools](https://github.com/Cloud2BR/File-Format-Converter) |
+| Technical documentation | LaTeX, Markdown | [LaTeX learning hub](https://github.com/brown9804/LaTeX-For-Everyone) |
+| Configuration and data | JSON, YAML | [Infrastructure workflows](https://github.com/Cloud2BR-MSFTLearningHub/Bicep-For-Everyone) |
+| Build and packaging | Dockerfiles, Makefiles, CMake | [Developer tooling](https://github.com/Cloud2BR/devopster), [ROS project](https://github.com/brown9804/ImageSegmentation-ROSNode) |
+| Interactive analysis | Jupyter notebooks | [Probability models](https://github.com/brown9804/ProbabilisticData-ModelsAnalysis-Hub) |
+
+**Additional learning references:** R and GNU Octave appear in the
+[machine-learning materials](https://github.com/brown9804/MachineLearning-Overview).
+They are retained as learning references, not counted as source-confirmed
+languages in this review. Automatic detections from generated files, bundled
+vendor code, or ambiguous extensions are not used as standalone evidence.
+
+## Organizations and initiatives
 
 Three complementary spaces for experimentation, enablement, and education:
 
