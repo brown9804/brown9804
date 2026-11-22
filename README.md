@@ -1,20 +1,8 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" width="1200" alt="Build. Learn. Share. Cloud, data, and engineering: from first concepts to hands-on experiments.">
-</p>
-
 <div align="center">
-  <a href="https://github.com/Cloud2BR-MSFTLearningHub">
-    <img src="https://github.com/Cloud2BR-MSFTLearningHub.png?size=160" width="80" height="80" alt="Cloud2BR Microsoft Learning Hub organization logo">
-  </a>
   <h1>Timna Brown</h1>
-  <p><strong>Cloud, Data &amp; Engineering</strong></p>
-  <p>Practical learning resources, infrastructure automation, and engineering experiments.</p>
+  <img src="https://raw.githubusercontent.com/brown9804/public-profile/main/assets/profile-banner.svg?v=3" width="720" alt="Cloud. Data. Engineering.">
+  <p><strong>Connecting infrastructure, analytics, systems, and practical learning.</strong></p>
   <p>Atlanta, USA</p>
-  <p>
-    <a href="https://github.com/Cloud2BR-MSFTLearningHub"><img src="https://img.shields.io/badge/Microsoft-Learning_Hub-003366?style=flat" alt="Explore the Microsoft Learning Hub"></a>
-    <a href="https://github.com/Cloud2BR"><img src="https://img.shields.io/badge/Cloud2BR-Cloud_Enablement-003366?style=flat" alt="Explore Cloud2BR"></a>
-    <a href="https://github.com/Cloud2BR-TEC"><img src="https://img.shields.io/badge/Cloud2BR-Technology_Education-003366?style=flat" alt="Explore the Technology Education Center"></a>
-  </p>
 </div>
 
 Welcome! I build and share resources that connect **cloud and DevOps**, **data
@@ -25,7 +13,7 @@ applications, and earlier engineering projects.
 [Start here](#start-here) |
 [Skills and learning](#skills-and-learning-areas) |
 [Organizations](#organizations-i-created) |
-[Portfolio graph](#portfolio-at-a-glance) |
+[Overview](#portfolio-at-a-glance) |
 [All projects](#explore-all-40-projects) |
 [Learning paths](#learning-paths)
 
@@ -33,14 +21,29 @@ applications, and earlier engineering projects.
 
 **40 public projects | 6 project categories | 3 organizations**
 
-<!-- Direct raw URLs retain version queries that GitHub /raw redirects drop. Bump v when chart assets change. -->
+The common thread is **learning by building, then making that knowledge reusable**:
+
+- **Automate infrastructure:** Azure, Bicep, Terraform, DevOps, and observability.
+- **Turn data into insight:** DAX, Power BI, machine learning, probability, and computer vision.
+- **Understand the systems underneath:** C/C++, Linux, parallel programming, digital hardware, and embedded designs.
+- **Share what works:** Learning paths, examples, technical documentation, LaTeX, and open-source communities.
+
+<details>
+<summary><strong>Optional visual snapshot - project distribution and learning routes</strong></summary>
+
+<!-- Direct raw URLs retain version queries that GitHub /raw redirects drop. -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/brown9804/brown9804/main/assets/portfolio-distribution.svg?v=2" width="600" alt="Repository counts: cloud/data/enterprise 8; programming/productivity 8; vision/robotics 5; systems/Linux/parallel 8; digital/embedded hardware 7; electrical/communications/networks 4.">
+  <img src="https://raw.githubusercontent.com/brown9804/public-profile/main/assets/portfolio-distribution.svg?v=3" width="280" alt="Repository counts: cloud/data/enterprise 8; programming/productivity 8; vision/robotics 5; systems/Linux/parallel 8; digital/embedded hardware 7; electrical/communications/networks 4.">
+  <img src="https://raw.githubusercontent.com/brown9804/public-profile/main/assets/learning-map.svg?v=3" width="280" alt="Six learning routes connect foundations to hands-on practice.">
 </p>
 
-The graph shows the project categories in the catalog below, using the
-November 22, 2026 snapshot. It measures **repository counts, not skill levels,
-visitor numbers, or production readiness**.
+[Open the distribution graph at full size](assets/portfolio-distribution.svg) |
+[Open the learning map at full size](assets/learning-map.svg)
+
+The graph uses the November 22, 2026 snapshot and measures repository counts,
+not skill levels, visitor numbers, or production readiness.
+
+</details>
 
 ## Start here
 
@@ -77,9 +80,9 @@ Three complementary spaces for experimentation, enablement, and education:
 
 | Organization | Focus | Explore |
 | --- | --- | --- |
-| **[Cloud2BR-MSFTLearningHub](https://github.com/Cloud2BR-MSFTLearningHub)** | Hands-on Microsoft technology learning, cloud experiments, tutorials, and sample implementations | [Learning catalog](https://cloud2br-msftlearninghub.github.io/org-catalog/) |
-| **[Cloud2BR](https://github.com/Cloud2BR)** | Cloud consulting and enablement resources for exploring, validating, and adopting Microsoft cloud solutions | [Open-source hub](https://cloud2br.github.io/oss-hub/) |
-| **[Cloud2BR-TEC](https://github.com/Cloud2BR-TEC)** | Technology education, practical experiences, and accessible opportunities to learn and innovate | [Education hub](https://cloud2br-tec.github.io/tec-hub/) |
+| <img src="https://github.com/Cloud2BR-MSFTLearningHub.png?size=80" width="28" height="28" alt=""> **[Cloud2BR-MSFTLearningHub](https://github.com/Cloud2BR-MSFTLearningHub)** | Hands-on Microsoft technology learning, cloud experiments, tutorials, and sample implementations | [Learning catalog](https://cloud2br-msftlearninghub.github.io/org-catalog/) |
+| <img src="https://github.com/Cloud2BR.png?size=80" width="28" height="28" alt=""> **[Cloud2BR](https://github.com/Cloud2BR)** | Cloud consulting and enablement resources for exploring, validating, and adopting Microsoft cloud solutions | [Open-source hub](https://cloud2br.github.io/oss-hub/) |
+| <img src="https://github.com/Cloud2BR-TEC.png?size=80" width="28" height="28" alt=""> **[Cloud2BR-TEC](https://github.com/Cloud2BR-TEC)** | Technology education, practical experiences, and accessible opportunities to learn and innovate | [Education hub](https://cloud2br-tec.github.io/tec-hub/) |
 
 For deeper hands-on practice, explore
 [Bicep for Everyone](https://github.com/Cloud2BR-MSFTLearningHub/Bicep-For-Everyone),
@@ -90,8 +93,8 @@ and the [GH-300 GitHub Copilot Study Guide](https://cloud2br-msftlearninghub.git
 ## Explore all 40 projects
 
 This catalog covers the **40 public project repositories reviewed on
-November 22, 2026**, excluding this profile's index repository. Expand a category
-to see each project and its purpose.
+November 22, 2026**, excluding the portfolio and GitHub profile index
+repositories. Expand a category to see each project and its purpose.
 
 <details>
 <summary><strong>Cloud, data, and enterprise learning - 8 projects</strong></summary>
@@ -186,11 +189,8 @@ for projects added after this snapshot.
 
 ## Learning paths
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/brown9804/brown9804/main/assets/learning-map.svg?v=2" width="600" alt="Six routes connect cloud automation, analytics, data science, hardware, technical communication, and GitHub Copilot study to practical next steps.">
-</p>
-
-Choose a route from the map, then open its linked resources:
+Choose a route and open its linked resources. The optional visual snapshot
+above illustrates these starting points and next steps.
 
 - **Cloud automation:** [Cloud and DevOps](https://brown9804.github.io/Cloud-DevOps-Overview/) ->
   [Bicep](https://brown9804.github.io/Bicep-Overview/) or
@@ -220,3 +220,8 @@ problems, or make learning more accessible are welcome.
 Check each README, license, prerequisites, and validation notes before reuse.
 Cloud examples may create billable resources when deployed. These are community
 resources, not official Microsoft training or a certification of production readiness.
+
+This is the full portfolio repository. The compact
+[GitHub profile landing page](https://github.com/brown9804) is maintained in
+[brown9804/brown9804](https://github.com/brown9804/brown9804), the repository name
+GitHub requires for automatic profile README display.
