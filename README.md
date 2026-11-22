@@ -1,8 +1,7 @@
 <div align="center">
   <h1>Timna Brown</h1>
-  <img src="https://raw.githubusercontent.com/brown9804/public-profile/main/assets/profile-banner.svg?v=3" width="720" alt="Cloud. Data. Engineering.">
-  <p><strong>Connecting infrastructure, analytics, systems, and practical learning.</strong></p>
-  <p>Atlanta, USA</p>
+  <p><img src="https://raw.githubusercontent.com/brown9804/public-profile/main/assets/profile-banner.svg?v=3" width="640" alt="Cloud. Data. Engineering."></p>
+  <p><strong>Build infrastructure. Explore data. Share knowledge.</strong><br><sub>Atlanta, USA</sub></p>
 </div>
 
 Welcome! I build and share resources that connect **cloud and DevOps**, **data
@@ -80,9 +79,9 @@ Three complementary spaces for experimentation, enablement, and education:
 
 | Organization | Focus | Explore |
 | --- | --- | --- |
-| <img src="https://github.com/Cloud2BR-MSFTLearningHub.png?size=80" width="28" height="28" alt=""> **[Cloud2BR-MSFTLearningHub](https://github.com/Cloud2BR-MSFTLearningHub)** | Hands-on Microsoft technology learning, cloud experiments, tutorials, and sample implementations | [Learning catalog](https://cloud2br-msftlearninghub.github.io/org-catalog/) |
-| <img src="https://github.com/Cloud2BR.png?size=80" width="28" height="28" alt=""> **[Cloud2BR](https://github.com/Cloud2BR)** | Cloud consulting and enablement resources for exploring, validating, and adopting Microsoft cloud solutions | [Open-source hub](https://cloud2br.github.io/oss-hub/) |
-| <img src="https://github.com/Cloud2BR-TEC.png?size=80" width="28" height="28" alt=""> **[Cloud2BR-TEC](https://github.com/Cloud2BR-TEC)** | Technology education, practical experiences, and accessible opportunities to learn and innovate | [Education hub](https://cloud2br-tec.github.io/tec-hub/) |
+| <img src="https://github.com/Cloud2BR-MSFTLearningHub.png?size=80" width="28" height="28" alt=""> **[Cloud2BR Microsoft Learning Hub](https://github.com/Cloud2BR-MSFTLearningHub)** | Microsoft labs, guides, and examples | [Catalog](https://cloud2br-msftlearninghub.github.io/org-catalog/) |
+| <img src="https://github.com/Cloud2BR.png?size=80" width="28" height="28" alt=""> **[Cloud2BR](https://github.com/Cloud2BR)** | Cloud consulting and enablement | [OSS hub](https://cloud2br.github.io/oss-hub/) |
+| <img src="https://github.com/Cloud2BR-TEC.png?size=80" width="28" height="28" alt=""> **[Cloud2BR-TEC](https://github.com/Cloud2BR-TEC)** | Technology education and practice | [Education](https://cloud2br-tec.github.io/tec-hub/) |
 
 For deeper hands-on practice, explore
 [Bicep for Everyone](https://github.com/Cloud2BR-MSFTLearningHub/Bicep-For-Everyone),
