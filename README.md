@@ -33,8 +33,9 @@ applications, and earlier engineering projects.
 
 **40 public projects | 6 project categories | 3 organizations**
 
+<!-- Bump SVG version queries when changing chart assets to refresh GitHub's image cache. -->
 <p align="center">
-  <img src="assets/portfolio-distribution.svg" width="600" alt="Repository counts: cloud/data/enterprise 8; programming/productivity 8; vision/robotics 5; systems/Linux/parallel 8; digital/embedded hardware 7; electrical/communications/networks 4.">
+  <img src="assets/portfolio-distribution.svg?v=2" width="600" alt="Repository counts: cloud/data/enterprise 8; programming/productivity 8; vision/robotics 5; systems/Linux/parallel 8; digital/embedded hardware 7; electrical/communications/networks 4.">
 </p>
 
 The graph shows the project categories in the catalog below, using the
@@ -186,7 +187,7 @@ for projects added after this snapshot.
 ## Learning paths
 
 <p align="center">
-  <img src="assets/learning-map.svg" width="600" alt="Six routes connect cloud automation, analytics, data science, hardware, technical communication, and GitHub Copilot study to practical next steps.">
+  <img src="assets/learning-map.svg?v=2" width="600" alt="Six routes connect cloud automation, analytics, data science, hardware, technical communication, and GitHub Copilot study to practical next steps.">
 </p>
 
 Choose a route from the map, then open its linked resources:
