@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Build. Learn. Share.</title>
+  <desc id="desc">A navy technology banner connecting cloud, analytics, and engineering through original line illustrations.</desc>
+  <defs>
+    <linearGradient id="background" x2="1" y2="1">
+      <stop stop-color="#003366"/>
+      <stop offset="1" stop-color="#071d34"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#bad7f5" stroke-opacity=".08"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <path d="M0 332H1200" stroke="#58a6ff" stroke-opacity=".28"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="64" y="94" fill="#93c5fd" font-size="24" font-weight="600" letter-spacing="3">A PORTFOLIO OF PRACTICAL CURIOSITY</text>
+    <text x="60" y="179" fill="#ffffff" font-size="70" font-weight="700" letter-spacing="-2">BUILD. LEARN. SHARE.</text>
+    <text x="64" y="238" fill="#bad7f5" font-size="36">Cloud. Data. Engineering.</text>
+    <text x="64" y="289" fill="#e6edf3" font-size="24">From first concepts to hands-on experiments.</text>
+  </g>
+  <g fill="none" stroke-width="2">
+    <circle cx="1005" cy="180" r="132" stroke="#58a6ff" stroke-opacity=".22"/>
+    <circle cx="1005" cy="180" r="103" stroke="#58a6ff" stroke-opacity=".12"/>
+    <path d="M1005 104L916 240H1094Z" stroke="#75b9fb" stroke-opacity=".55"/>
+  </g>
+  <g fill="#0b2948" stroke-width="2">
+    <circle cx="1005" cy="104" r="48" stroke="#58a6ff"/>
+    <circle cx="916" cy="240" r="48" stroke="#4fd1c5"/>
+    <circle cx="1094" cy="240" r="48" stroke="#a78bfa"/>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
+    <path d="M981 116H1026C1041 116 1043 94 1027 92C1021 74 993 76 989 95C973 93 967 114 981 116Z" stroke="#93c5fd"/>
+    <path d="M893 220V260H940M902 250L912 238L923 244L936 226" stroke="#4fd1c5"/>
+    <rect x="1076" y="222" width="36" height="36" rx="5" stroke="#c4b5fd"/>
+    <path d="M1085 212V222M1094 212V222M1103 212V222M1085 258V268M1094 258V268M1103 258V268M1066 231H1076M1066 240H1076M1066 249H1076M1112 231H1122M1112 240H1122M1112 249H1122" stroke="#c4b5fd"/>
+  </g>
+</svg>

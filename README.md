@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/profile-banner.svg" width="1200" alt="Build. Learn. Share. Cloud, data, and engineering: from first concepts to hands-on experiments.">
+</p>
+
 <div align="center">
   <a href="https://github.com/Cloud2BR-MSFTLearningHub">
     <img src="https://github.com/Cloud2BR-MSFTLearningHub.png?size=160" width="80" height="80" alt="Cloud2BR Microsoft Learning Hub organization logo">
@@ -21,8 +25,21 @@ applications, and earlier engineering projects.
 [Start here](#start-here) |
 [Skills and learning](#skills-and-learning-areas) |
 [Organizations](#organizations-i-created) |
+[Portfolio graph](#portfolio-at-a-glance) |
 [All projects](#explore-all-40-projects) |
 [Learning paths](#learning-paths)
+
+## Portfolio at a glance
+
+**40 public projects | 6 project categories | 3 organizations**
+
+<p align="center">
+  <img src="assets/portfolio-distribution.svg" width="600" alt="Repository counts: cloud/data/enterprise 8; programming/productivity 8; vision/robotics 5; systems/Linux/parallel 8; digital/embedded hardware 7; electrical/communications/networks 4.">
+</p>
+
+The graph shows the project categories in the catalog below, using the
+November 22, 2026 snapshot. It measures **repository counts, not skill levels,
+visitor numbers, or production readiness**.
 
 ## Start here
 
@@ -167,6 +184,12 @@ to see each project and its purpose.
 for projects added after this snapshot.
 
 ## Learning paths
+
+<p align="center">
+  <img src="assets/learning-map.svg" width="600" alt="Six routes connect cloud automation, analytics, data science, hardware, technical communication, and GitHub Copilot study to practical next steps.">
+</p>
+
+Choose a route from the map, then open its linked resources:
 
 - **Cloud automation:** [Cloud and DevOps](https://brown9804.github.io/Cloud-DevOps-Overview/) ->
   [Bicep](https://brown9804.github.io/Bicep-Overview/) or

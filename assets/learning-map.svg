@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="800" viewBox="0 0 600 800" role="img" aria-labelledby="title desc">
+  <title id="title">From first lesson to hands-on practice</title>
+  <desc id="desc">Six learning routes: Bicep or Terraform to Azure modules; DAX foundations to a practice model; machine learning and probability to image processing; assembly and Verilog to RISC-V on FPGA; LaTeX foundations to writing and slides; GH-300 concepts to study and practice. Use the linked resources below the diagram.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <path d="M0 0L8 4L0 8Z" fill="#93c5fd"/>
+    </marker>
+  </defs>
+  <rect width="600" height="800" rx="20" fill="#0b233d"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="36" y="55" fill="#ffffff" font-size="32" font-weight="700">From lesson to hands-on.</text>
+    <text x="36" y="91" fill="#bad7f5" font-size="22">Choose a starting point. Take the next step.</text>
+    <g fill="#bad7f5" font-size="20" font-weight="600" letter-spacing="2">
+      <text x="36" y="127">LEARN</text>
+      <text x="335" y="127">BUILD / PRACTICE</text>
+    </g>
+    <g font-size="24" font-weight="600">
+      <text x="36" y="162" fill="#58a6ff">Cloud automation</text>
+      <text x="36" y="262" fill="#4fd1c5">Analytics</text>
+      <text x="36" y="362" fill="#a78bfa">Data science &amp; vision</text>
+      <text x="36" y="462" fill="#7dd3fc">Hardware &amp; systems</text>
+      <text x="36" y="562" fill="#fbbf24">Technical communication</text>
+      <text x="36" y="662" fill="#fb7185">Copilot exam preparation</text>
+    </g>
+  </g>
+  <g fill="#143452" stroke="#305575">
+    <rect x="36" y="178" width="230" height="48" rx="9"/>
+    <rect x="335" y="178" width="229" height="48" rx="9"/>
+    <rect x="36" y="278" width="230" height="48" rx="9"/>
+    <rect x="335" y="278" width="229" height="48" rx="9"/>
+    <rect x="36" y="378" width="230" height="48" rx="9"/>
+    <rect x="335" y="378" width="229" height="48" rx="9"/>
+    <rect x="36" y="478" width="230" height="48" rx="9"/>
+    <rect x="335" y="478" width="229" height="48" rx="9"/>
+    <rect x="36" y="578" width="230" height="48" rx="9"/>
+    <rect x="335" y="578" width="229" height="48" rx="9"/>
+    <rect x="36" y="678" width="230" height="48" rx="9"/>
+    <rect x="335" y="678" width="229" height="48" rx="9"/>
+  </g>
+  <g fill="none" stroke="#93c5fd" stroke-width="2" marker-end="url(#arrow)">
+    <path d="M282 202H319"/>
+    <path d="M282 302H319"/>
+    <path d="M282 402H319"/>
+    <path d="M282 502H319"/>
+    <path d="M282 602H319"/>
+    <path d="M282 702H319"/>
+  </g>
+  <g fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="24" text-anchor="middle">
+    <text x="151" y="210">Bicep / Terraform</text>
+    <text x="449" y="210">Azure modules</text>
+    <text x="151" y="310">DAX foundations</text>
+    <text x="449" y="310">Practice model</text>
+    <text x="151" y="410">ML &amp; probability</text>
+    <text x="449" y="410">Image processing</text>
+    <text x="151" y="510">Assembly / Verilog</text>
+    <text x="449" y="510">RISC-V on FPGA</text>
+    <text x="151" y="610">LaTeX foundations</text>
+    <text x="449" y="610">Writing &amp; slides</text>
+    <text x="151" y="710">GH-300 concepts</text>
+    <text x="449" y="710">Study &amp; practice</text>
+  </g>
+  <text x="36" y="770" fill="#bad7f5" font-family="Segoe UI, Arial, sans-serif" font-size="22">Open the linked learning paths below this map.</text>
+</svg>
