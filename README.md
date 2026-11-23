@@ -1,3 +1,4 @@
+<!-- Technical Portfolio | Timna Brown -->
 <div align="center">
   <h1>Timna Brown</h1>
   <!-- Pin the banner asset commit to avoid stale main-branch images; update after changing the SVG. -->
