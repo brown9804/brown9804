@@ -19,11 +19,13 @@ and technical documentation for shared learning.
 
 ## My technical focus
 
-- **Cloud and DevOps:** Azure, Bicep, Terraform, GitHub Actions, infrastructure patterns, and observability.
-- **Data and analytics:** Python, SQL, DAX, Power BI, machine learning, and probabilistic models.
-- **Software and systems:** C/C++, JavaScript, Visual Basic .NET, VBA, Linux, ARM, cache simulation, and parallel programming.
-- **Hardware and vision:** Verilog, FPGA, RISC-V, PCIe, embedded designs, OpenCV, and ROS.
-- **Knowledge sharing:** Practical tutorials, reusable examples, LaTeX, Markdown, and documentation websites.
+| Focus Area | Technologies |
+| --- | --- |
+| ?? **Cloud and DevOps** | Azure, Bicep, Terraform, GitHub Actions, infrastructure patterns, observability |
+| ?? **Data and analytics** | Python, SQL, DAX, Power BI, machine learning, probabilistic models |
+| ?? **Software and systems** | C/C++, JavaScript, Visual Basic .NET, VBA, Linux, ARM, cache simulation, parallel programming |
+| ?? **Hardware and vision** | Verilog, FPGA, RISC-V, PCIe, embedded designs, OpenCV, ROS |
+| ?? **Knowledge sharing** | Practical tutorials, reusable examples, LaTeX, Markdown, documentation websites |
 
 ## Languages and technical formats
 
