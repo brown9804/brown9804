@@ -39,7 +39,7 @@ and technical documentation for shared learning.
 ![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus) ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp) ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python) ![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript) ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go) ![Rust](https://img.shields.io/badge/Rust-%23CE422B?style=flat-square&logo=rust) ![VB.NET](https://img.shields.io/badge/VB.NET-%235C2D91?style=flat-square&logo=.net)
 
 ### ?? Scientific Computing
-![MATLAB](https://img.shields.io/badge/MATLAB-%230076A6?style=flat-square&logo=mathworks)
+![MATLAB](https://img.shields.io/badge/MATLAB-%230076A6?style=flat-square&logo=mathworks) ![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r) ![Octave](https://img.shields.io/badge/GNU%20Octave-%23C71C06?style=flat-square&logo=octave)
 
 ### ?? Automation & Scripting
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE?style=flat-square&logo=powershell) ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=flat-square&logo=gnubash) ![VBA](https://img.shields.io/badge/VBA-%23217346?style=flat-square&logo=microsoft-excel) ![Tcl](https://img.shields.io/badge/Tcl-%23E0E0E0?style=flat-square)
@@ -64,7 +64,7 @@ HTML ? CSS ? LaTeX ? Markdown ? JSON ? YAML ? Docker ? CMake
 </table>
 
 [View language examples and evidence](PORTFOLIO.md#languages-and-technical-formats).  
-R and GNU Octave are also referenced in my scientific learning materials.
+**Scientific learning materials** include R and GNU Octave for advanced statistical analysis and numerical computing.
 ## Organizations and initiatives
 
 | Organization | Focus | Explore |
