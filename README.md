@@ -35,28 +35,28 @@ and technical documentation for shared learning.
 <tr>
 <td width="50%">
 
-### ?? Application Development
+### ð» Application Development
 ![C](https://img.shields.io/badge/C-%23A8B9CC?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=flat-square&logo=cplusplus) ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=csharp) ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python) ![JS](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript) ![Go](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go) ![Rust](https://img.shields.io/badge/Rust-%23CE422B?style=flat-square&logo=rust) ![VB.NET](https://img.shields.io/badge/VB.NET-%235C2D91?style=flat-square&logo=.net)
 
-### ?? Scientific Computing
+### ð¬ Scientific Computing
 ![MATLAB](https://img.shields.io/badge/MATLAB-%230076A6?style=flat-square&logo=mathworks) ![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r) ![Octave](https://img.shields.io/badge/GNU%20Octave-%23C71C06?style=flat-square&logo=octave)
 
-### ?? Automation & Scripting
+### ð¤ Automation & Scripting
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE?style=flat-square&logo=powershell) ![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=flat-square&logo=gnubash) ![VBA](https://img.shields.io/badge/VBA-%23217346?style=flat-square&logo=microsoft-excel) ![Tcl](https://img.shields.io/badge/Tcl-%23E0E0E0?style=flat-square)
 
 </td>
 <td width="50%">
 
-### ?? Queries & Analytics
+### ð Queries & Analytics
 ![SQL](https://img.shields.io/badge/SQL-%23CC2927?style=flat-square&logo=microsoft-sql-server) ![DAX](https://img.shields.io/badge/DAX-%23F2CC1D?style=flat-square&logo=power-bi) ![PQM](https://img.shields.io/badge/Power%20Query%20M-%23F2CC1D?style=flat-square&logo=microsoft)
 
-### ??? Infrastructure as Code
+### ð Infrastructure as Code
 ![Bicep](https://img.shields.io/badge/Bicep-%23D7E8FF?style=flat-square&logo=microsoft-azure) ![Terraform](https://img.shields.io/badge/Terraform-%23844FBA?style=flat-square&logo=terraform)
 
-### ?? Systems & Hardware
+### âï¸ Systems & Hardware
 ![Assembly](https://img.shields.io/badge/Assembly-%23D2B48C?style=flat-square) ![Verilog](https://img.shields.io/badge/Verilog-%23B41D27?style=flat-square)
 
-### ?? Web & Documentation
+### ð Web & Documentation
 HTML ? CSS ? LaTeX ? Markdown ? JSON ? YAML ? Docker ? CMake
 
 </td>
