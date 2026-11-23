@@ -62,8 +62,9 @@ Choose a topic, open the learning website, and follow the examples at your own p
 
 ## Skills and learning areas
 
-These areas reflect the public projects below, rather than a certification list
-or a claim that every example is production-ready.
+These areas reflect the public projects below; they do not imply that every
+example is production-ready. Earned credentials are listed in the
+[profile overview](README.md#certifications-earned).
 
 | Area | Technologies and concepts explored |
 | --- | --- |
@@ -271,7 +272,8 @@ problems, or make learning more accessible are welcome.
 **A note on examples:** Projects span different stages of learning and maturity.
 Check each README, license, prerequisites, and validation notes before reuse.
 Cloud examples may create billable resources when deployed. These are community
-resources, not official Microsoft training or a certification of production readiness.
+resources, not official Microsoft training or a claim that deployments are
+production-ready.
 
 This is the detailed view of the portfolio. Return to the
 [concise overview](README.md) or visit my

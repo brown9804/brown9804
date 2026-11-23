@@ -16,6 +16,25 @@ and technical documentation for shared learning.
 [Browse all 40 projects](PORTFOLIO.md#explore-all-40-projects) |
 [Skills and learning paths](PORTFOLIO.md#skills-and-learning-areas)
 
+## Certifications earned
+
+<p><img src="https://img.shields.io/badge/6%20CERTIFICATIONS-PASSED-238636?style=for-the-badge" alt="Six certifications passed"></p>
+
+<table>
+<tr>
+<td width="50%" valign="top"><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-900"><strong>GitHub Foundations</strong></a><br><code>GH-900</code> · <img src="https://img.shields.io/badge/PASSED-238636?style=flat-square" alt="Passed"></td>
+<td width="50%" valign="top"><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/gh-300"><strong>GitHub Copilot</strong></a><br><code>GH-300</code> · <img src="https://img.shields.io/badge/PASSED-238636?style=flat-square" alt="Passed"></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-102"><strong>Azure AI Engineer Associate</strong></a><br><code>AI-102</code> · <img src="https://img.shields.io/badge/PASSED-238636?style=flat-square" alt="Passed"></td>
+<td width="50%" valign="top"><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/ai-900"><strong>Azure AI Fundamentals</strong></a><br><code>AI-900</code> · <img src="https://img.shields.io/badge/PASSED-238636?style=flat-square" alt="Passed"></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-100"><strong>Azure Data Scientist Associate</strong></a><br><code>DP-100</code> · <img src="https://img.shields.io/badge/PASSED-238636?style=flat-square" alt="Passed"></td>
+<td width="50%" valign="top"><a href="https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-900"><strong>Azure Data Fundamentals</strong></a><br><code>DP-900</code> · <img src="https://img.shields.io/badge/PASSED-238636?style=flat-square" alt="Passed"></td>
+</tr>
+</table>
+
 ## Languages and technical formats
 
 **21 code and domain-specific languages** are represented in my public projects and Cloud2BR organizations.
@@ -82,7 +101,8 @@ and technical documentation for shared learning.
 My projects span different stages of learning and maturity. See the
 [full portfolio](PORTFOLIO.md) for individual
 project descriptions, visual snapshots, prerequisites, and reuse considerations.
-These are community resources, not a certification list or official Microsoft training.
+These community study resources are not official Microsoft training or evidence
+of certification. See the [certifications earned](#certifications-earned) above.
 
 The [summary](README.md) and [detailed portfolio](PORTFOLIO.md) are maintained
 together in this repository.
