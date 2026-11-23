@@ -46,7 +46,7 @@ and technical documentation for shared learning.
 ![Assembly](https://img.shields.io/badge/Assembly-%23D2B48C?style=flat-square) ![Verilog](https://img.shields.io/badge/Verilog-%23B41D27?style=flat-square)
 
 ### Web & Documentation
-HTML, CSS, LaTeX, Markdown, JSON, YAML, Docker, CMake
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white) ![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square&logo=yaml&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
 
 </td>
 </tr>
