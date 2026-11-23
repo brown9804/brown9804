@@ -16,16 +16,6 @@ and technical documentation for shared learning.
 [Browse all 40 projects](PORTFOLIO.md#explore-all-40-projects) |
 [Skills and learning paths](PORTFOLIO.md#skills-and-learning-areas)
 
-## My technical focus
-
-| Focus Area | Technologies |
-| --- | --- |
-| **Cloud and DevOps** | Azure, Bicep, Terraform, GitHub Actions, infrastructure patterns, observability |
-| **Data and analytics** | Python, SQL, DAX, Power BI, machine learning, probabilistic models |
-| **Software and systems** | C/C++, JavaScript, Visual Basic .NET, VBA, Linux, ARM, cache simulation, parallel programming |
-| **Hardware and vision** | Verilog, FPGA, RISC-V, PCIe, embedded designs, OpenCV, ROS |
-| **Knowledge sharing** | Practical tutorials, reusable examples, LaTeX, Markdown, documentation websites |
-
 ## Languages and technical formats
 
 **21 code and domain-specific languages** are represented in my public projects and Cloud2BR organizations.
@@ -64,6 +54,16 @@ HTML, CSS, LaTeX, Markdown, JSON, YAML, Docker, CMake
 
 [View language examples and evidence](PORTFOLIO.md#languages-and-technical-formats).  
 **Scientific learning materials** include R and GNU Octave for advanced statistical analysis and numerical computing.
+## My Technical Focus
+
+| Focus Area | Technologies |
+| --- | --- |
+| **Cloud and DevOps** | Azure, Bicep, Terraform, GitHub Actions, infrastructure patterns, observability |
+| **Data and analytics** | Python, SQL, DAX, Power BI, machine learning, probabilistic models |
+| **Software and systems** | C/C++, JavaScript, Visual Basic .NET, VBA, Linux, ARM, cache simulation, parallel programming |
+| **Hardware and vision** | Verilog, FPGA, RISC-V, PCIe, embedded designs, OpenCV, ROS |
+| **Knowledge sharing** | Practical tutorials, reusable examples, LaTeX, Markdown, documentation websites |
+
 ## Organizations and initiatives
 
 | Organization | Focus | Explore |
