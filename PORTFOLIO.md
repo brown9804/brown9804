@@ -1,8 +1,8 @@
 <div align="center">
   <h1>Timna Brown</h1>
   <!-- Pin the banner asset commit to avoid stale main-branch images; update after changing the SVG. -->
-  <p><img src="https://raw.githubusercontent.com/brown9804/public-profile/c9c3ae9b2b01c0de2e4b9116accca8f35c87c242/assets/profile-banner.svg" width="640" alt="Technical portfolio: cloud architecture, data analytics, and systems engineering."></p>
-  <p><strong>Cloud architecture | Data analytics | Systems engineering</strong><br><sub>Atlanta, USA</sub></p>
+  <p><img src="https://raw.githubusercontent.com/brown9804/public-profile/1c22042d9a861cf00a8bee659b85991f18ae752f/assets/profile-banner.svg" width="640" alt="Data Scientist, Cloud DevOps Engineer, Solution Engineer, and Cloud Solution Architect."></p>
+  <p><strong>Data Scientist | Cloud DevOps Engineer | Solution Engineer | Cloud Solution Architect</strong><br><sub>Atlanta, USA</sub></p>
 </div>
 
 My technical portfolio covers **cloud infrastructure, data analytics, software
